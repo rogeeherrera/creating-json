@@ -11,6 +11,11 @@ class Students{
 		$studentLN = array("Herrera, Herrera");
 		return $studentLN;
 	}
+
+	public function getStudentNames(){
+		$studentNames = "John Rogee Herrera, Jhaecee Herrera";
+		return $studentNames;
+	}
 }
 
 ?>
